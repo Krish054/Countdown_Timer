@@ -1,1 +1,1 @@
-/***CountDown Timer***/
+*CountDown Timer*
